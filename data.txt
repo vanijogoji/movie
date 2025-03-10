@@ -1,16 +1,16 @@
 5
 1
-Avengers: Endgame
-100 12.50
+RRR
+100 150
 2
-The Lion King
-80 10.00
+KGF
+80 100
 3
-Spider-Man: No Way Home
-150 15.00
+Chhaava
+150 200
 4
-Inception
-120 13.00
+Mrs
+120 100
 5
-The Dark Knight
-90 14.00
+Spy
+90 150
